@@ -149,6 +149,11 @@
                                 </p>
 
                             </div>
+                            <div class="top-text">
+                                <h3>Certification</h3>
+                                <img src="{{asset('home/certificate.jpg')}}"/>
+
+                            </div>
 
 
                         </div>
